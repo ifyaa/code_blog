@@ -1,0 +1,3 @@
+[remote "origin"]
+	url = https://github.com/amrgamal91/code_blog.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
