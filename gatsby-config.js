@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "https://amrgamal91.github.io/code_blog",
+  pathPrefix: "/code_blog",
   siteMetadata: {
     title: `Code Blog `,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
