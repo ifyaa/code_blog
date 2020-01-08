@@ -22,6 +22,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     # create a new Gatsby site using the default starter
     gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
     ```
+    sudo yarn add gatsby develop
 
 1.  **Start developing.**
 
